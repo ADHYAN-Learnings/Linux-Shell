@@ -1,0 +1,2 @@
+# syntax: tr '()' '[]' < filename
+tr '()' '[]'
